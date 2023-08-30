@@ -42,6 +42,7 @@ To contribute:
 | [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search)                                                                        | Calgary and Montreal          | Unknown               | Technology Summer Analyst Program                                                              |
 | [Ontario Teachers Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers)                                                               | Toronto                       | Before September 30th | Product Engineering Intern, Middleware Analyst Intern, Solution Engineering Intern - 16 Months |
 | [Harris Computer Systems](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Saint-Laurent-Quebec/Software-Development-Intern_R0021501-1)            | Saint-Laurent, Quebec         | Unknown               | Software Development Intern                                                                    |
+| [Epic Games](https://www.epicgames.com/site/en-US/careers/jobs/4957153004)            | Montreal, Quebec         | Unknown               | Core Programmer Intern                                                                   |
 
 # 🌻 Upcoming Applications
 
